@@ -23,26 +23,14 @@ menu:
     # icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/hexo-theme-freemind
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
-  - title: BOOTSTRA.386
-    url: https://github.com/kristopolous/BOOTSTRA.386
-    intro: "BOOTSTRA.386's Github repository."
-    icon: "fa fa-github"
-  - title: Freemind.386
-    url: https://github.com/blackshow/hexo-theme-freemind.386
-    intro: "Freemind.386's Github repository."
-    icon: "fa fa-github"
-  - title: "My Github"
-    url: http://www.github.com/blackshow
+  - title: Github
+    url: https://github.com/Microndgt
     intro: "My Github account."
     icon: "fa fa-github"
-  # - title: "My LinkedIn"
-  #   url: http://www.linkedin.com/in/xxx
-  #   intro: "My Linkin account."
-  #   icon: "fa fa-linkedin"
+  - title: "My Weibo"
+    url: https://weibo.com/KevinDu2016
+    intro: "My weibo account."
+    icon: "fa fa-weibo"
 
 widgets:
 - search
@@ -67,3 +55,9 @@ baidu_tongji:
 
 # search
 #swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+ICP_license: 陕ICP备17010640号
+
+since_year: 2016
+
+# 文章截断
+excerpt_length: 500
